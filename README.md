@@ -1,6 +1,5 @@
 # FBrowser
-This is a two-day C++ project built for learning purposes. Do not use it for your daily internet browsing since it lacks security features.
-
+This is a two-day C++ project built for learning purposes.
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/45536639/119235672-5ac19500-bb3c-11eb-821e-94241bd42bf4.png"> 
 </p>
